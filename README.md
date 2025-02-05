@@ -2,7 +2,7 @@
 - 👀 I’m interested in photographing, especialy astrophotographing.
 - 🌱 I’m currently learning c++ and python.
 
-- ⚡ Fun fact: Life's a struggle!
+- ⚡ Fun fact: Life is a struggle!
 
 <!---
 Take-YourTime/Take-YourTime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
